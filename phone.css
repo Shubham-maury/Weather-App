@@ -1,0 +1,12 @@
+.row { 
+    width: 15rem; 
+}
+#search {
+    width: 14rem;
+    font-size: 20px;
+    padding: 4px 11px;
+}
+main {
+    width: 15rem;
+    height: 80vh; 
+}
